@@ -1,0 +1,12 @@
+/node_modules
+/packages
+/bin
+**/log
+**/logs
+*.log
+*.logs
+*.lock
+*.tmp
+Thumbs.db
+.DS_Store
+
